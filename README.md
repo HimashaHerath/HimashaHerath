@@ -14,7 +14,8 @@ Hello! I'm **Himasha Herath**, an innovative Software Engineer from Sri Lanka wi
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HimashaHerath&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HimashaHerath&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+](https://github-readme-streak-stats-eight.vercel.app/?user=HimashaHerath&theme=tokyonight)
 
 </div>
 
