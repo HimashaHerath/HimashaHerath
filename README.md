@@ -13,10 +13,9 @@
 Hello! I'm **Himasha Herath**, an innovative Software Engineer from Sri Lanka with a passion for tackling complex challenges in **Machine Learning**, **Web Development**, and **Artificial Intelligence**. I'm constantly exploring new technologies and methodologies to stay at the forefront of this ever-evolving field.
 
 <div align="center">
-
-[<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HimashaHerath&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-](https://github-readme-streak-stats-eight.vercel.app/?user=HimashaHerath&theme=tokyonight)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HimashaHerath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🌐 Connect with Me
