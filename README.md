@@ -14,7 +14,7 @@ Hello! I'm **Himasha Herath**, an innovative Software Engineer from Sri Lanka wi
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HimashaHerath&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HimashaHerath)](https://git.io/streak-stats)
 
 </div>
 
@@ -30,7 +30,7 @@ Hello! I'm **Himasha Herath**, an innovative Software Engineer from Sri Lanka wi
   <a href="https://www.instagram.com/himasha_47__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:himasha626@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
