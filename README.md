@@ -1,100 +1,149 @@
+<!--
+  GitHub Profile README for HimashaHerath
+  Clean, professional, low-friction version.
+-->
+
+<h1 align="center">Hi, I'm Himasha Herath</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Himasha%20Herath&desc=Innovative%20Software%20Engineer&fontSize=40&animation=fadeIn"/>
+  <strong>Full Stack Engineer · AI & Web Solutions · Next.js / TypeScript / Python</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimashaHerath&style=flat-square&color=0088cc" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/HimashaHerath?label=Followers&style=flat-square&color=0088cc" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=flat-square" alt="Open to Work"/>
-</p>
-
-## 👋 About Me
-
-Hello! I'm **Himasha Herath**, an innovative Software Engineer from Sri Lanka with a passion for tackling complex challenges in **Machine Learning**, **Web Development**, and **Artificial Intelligence**. I'm constantly exploring new technologies and methodologies to stay at the forefront of this ever-evolving field.
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HimashaHerath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/himasha-herath" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/himasha_herath" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/himasha_47__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:himasha626@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-himashas-projects.vercel.app/api?username=HimashaHerath&show_icons=true&theme=tokyonight&hide_border=true" alt="HimashaHerath's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-himashas-projects.vercel.app/api/top-langs/?username=HimashaHerath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  I build practical software products, AI-assisted workflows, developer tools, and clean web experiences.
 </p>
 
 <p align="center">
-  <img src="https://github.com/HimashaHerath/HimashaHerath/blob/main/github-metrics.svg" alt="GitHub Metrics" width="70%"/>
+  <a href="https://himasha.tech">
+    <img src="https://img.shields.io/badge/Portfolio-himasha.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/himasha-herath">
+    <img src="https://img.shields.io/badge/LinkedIn-Himasha%20Herath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:himasha626@gmail.com">
+    <img src="https://img.shields.io/badge/Email-himasha626%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-## 💼 Professional Background
+---
 
-<table align="center">
+## About
+
+I'm a software engineer from Sri Lanka focused on building useful, production-minded systems with clean interfaces and strong engineering foundations.
+
+My work usually sits around:
+
+- AI-integrated products and LLM-powered workflows
+- Full-stack web apps with Next.js, React, TypeScript, and Python
+- Developer tooling, automation, dashboards, and internal systems
+- E-commerce, SaaS, and practical business software
+
+I care about shipping fast, keeping architecture understandable, and building things that can actually be used - not just demoed.
+
+---
+
+## Current Focus
+
+<table>
   <tr>
-    <td><b>Name:</b></td>
-    <td>Himasha Herath</td>
+    <td width="50%">
+      <h3>AI + Product Engineering</h3>
+      <p>Building practical AI-assisted tools, memory systems, automation layers, and intelligent workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>Full-Stack Systems</h3>
+      <p>Designing clean web apps, APIs, dashboards, admin tools, and product interfaces with modern web stacks.</p>
+    </td>
   </tr>
   <tr>
-    <td><b>Location:</b></td>
-    <td>Sri Lanka</td>
-  </tr>
-  <tr>
-    <td><b>Education:</b></td>
-    <td>BEng (Hons) in Software Engineering</td>
+    <td width="50%">
+      <h3>Developer Infrastructure</h3>
+      <p>Working with GitHub Actions, Docker, MCP-style tooling, Discord automation, and reliable integration flows.</p>
+    </td>
+    <td width="50%">
+      <h3>Business Software</h3>
+      <p>Turning real operational needs into simple, maintainable tools for teams, brands, and small businesses.</p>
+    </td>
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,flask,tensorflow,docker,git,html,css,js,mongodb,aws,firebase,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,docker,git,githubactions,postgres,mongodb,aws,figma" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF5733?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/-Web%20Development-28A745?style=for-the-badge" alt="Web Development"/>
-  <img src="https://img.shields.io/badge/-Mobile%20Development-0078D4?style=for-the-badge" alt="Mobile Development"/>
-  <img src="https://img.shields.io/badge/-Data%20Science-F4B400?style=for-the-badge" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-9B51E0?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20REST-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20RAG%20%7C%20Automation-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions-111827?style=flat-square" />
 </p>
 
-## 📈 Activity Graph
+---
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/HimashaHerath/discord-llm">Discord Control Layer</a></h3>
+      <p>MCP-ready Discord control plane for bots, tools, and project automation.</p>
+      <p><code>TypeScript</code> <code>Discord</code> <code>MCP</code> <code>Docker</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/HimashaHerath/github-dev-wrapped">GitHub Dev Wrapped</a></h3>
+      <p>AI-powered weekly GitHub activity reports and developer summaries.</p>
+      <p><code>TypeScript</code> <code>GitHub Actions</code> <code>AI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/HimashaHerath/CortexFlow">CortexFlow</a></h3>
+      <p>Experiments around LLM memory, context handling, and retrieval workflows.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>LangChain</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/HimashaHerath">More Projects</a></h3>
+      <p>Web apps, automation tools, AI experiments, dashboards, and product prototypes.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimashaHerath&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub Profile Summary" />
 </p>
 
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://github.com/HimashaHerath/HimashaHerath/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Commits"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories Per Language" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time" />
+</p>
 
-### 🌟 "Building the future, one commit at a time" 🌟
+---
 
-</div>
+## How I Work
+
+```txt
+Think clearly -> build fast -> verify properly -> simplify aggressively
+```
+
+I prefer small, focused systems over over-engineered ones.
+I like tools that save time, interfaces that are easy to understand, and codebases that are maintainable after the first version ships.
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <strong>Open to software engineering, AI product, full-stack, and automation-focused opportunities.</strong>
 </p>
