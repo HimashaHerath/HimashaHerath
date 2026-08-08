@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://himasha.tech">
+  <a href="https://himasha.dev">
     <img src="https://img.shields.io/badge/Portfolio-himasha.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/himasha-herath">
