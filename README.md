@@ -24,7 +24,6 @@ I also run my own Linux home server: about ten Docker Compose stacks behind a re
 | [webextract](https://github.com/HimashaHerath/webextract) | Python library that loads a web page with Playwright and has an LLM return structured data; [on PyPI](https://pypi.org/project/llm-webextract/) | Python, Playwright |
 | [Form](https://github.com/HimashaHerath/Form) | Weight and calorie log that estimates TDEE from your own trend data | Next.js, Supabase, Zustand |
 | [project_proposal](https://github.com/HimashaHerath/project_proposal) | Proposal and contract PDF generator for freelancers | Next.js, React PDF |
-| [au-jobs-mcp](https://github.com/HimashaHerath/au-jobs-mcp) | MCP server that lets Claude search Australian job boards and track applications | TypeScript, Playwright, MCP |
 
 ### Stack
 
